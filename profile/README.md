@@ -9,3 +9,15 @@ Related work:
 <details closed><summary>Organization profile picture credits</summary>
 <ul><li><a href="https://commons.wikimedia.org/wiki/File:Pirate_Flag.svg">Oren neu dag, CC-BY-SA-3.0</a></li></ul>
 </details>
+
+<details closed><summary>Source repositories for Docker Images</summary>
+<ul>
+<li><a href="https://github.com/louisroyer-docker/base-irit"><code>louisroyer-docker/base-irit</code></a>: Base image</li>
+<li><a href="https://github.com/louisroyer-docker/free5gc"><code>louisroyer-docker/free5gc</code></a>: Free5GC's NF</li>
+<li><a href="https://github.com/louisroyer-docker/nextmn"><code>louisroyer-docker/nextmn</code></a>: NextMN</li>
+<li><a href="https://github.com/louisroyer-docker/ueransim"><code>louisroyer-docker/ueransim</code></a>: UERANSIM</li>
+<li><a href="https://github.com/louisroyer-docker/free5gc-populate"><code>louisroyer-docker/free5gc-populate</code></a>: configure Free5GC's database</li>
+<li><a href="https://github.com/louisroyer-docker/docker-setup"><code>louisroyer-docker/docker-setup</code></a>: configure ip routes inside container</li>
+<li><a href="https://github.com/louisroyer-docker/network-debug"><code>louisroyer-docker/network-debug</code></a>: tools to debug containers</li>
+</ul>
+</details>
