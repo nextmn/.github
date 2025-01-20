@@ -1,6 +1,13 @@
 NextMN (Next Mobile Network) is a collection of experimental softwares related to Mobile Networking.
 They are intended to work in cooperation with other network functions such as [Free5GC](https://github.com/free5gc)'s ones, using [Docker Compose](https://github.com/docker/compose).
 
+> [!IMPORTANT]
+> A **[testbed repository](https://github.com/nextmn/testbed)** integrating it all is available.
+> 
+> If you want to reproduce the experiment, follow the [_Getting Started_ instructions](https://github.com/nextmn/testbed?tab=readme-ov-file#getting-started) to install the testbed, and refer to the [wiki](https://github.com/nextmn/testbed/wiki) for further documentation (customisation of the testbed parameters, commands available, etc.).
+
+
+## More infos
 Organization owner: [Louis Royer](https://github.com/louisroyer)
 
 Related work:
@@ -21,3 +28,4 @@ Related work:
 <li><a href="https://github.com/louisroyer-docker/network-debug"><code>louisroyer-docker/network-debug</code></a>: tools to debug containers</li>
 </ul>
 </details>
+
