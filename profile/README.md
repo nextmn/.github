@@ -12,6 +12,7 @@ Organization owner: [Louis Royer](https://github.com/louisroyer)
 
 Related work:
 - Louis Royer, Emmanuel Lavinal, and Emmanuel Chaput. December 2023. [Using SRv6 to access Edge Applications in 5G Networks](https://doi.org/10.1145/3630202.3630231).
+- Louis Royer, Emmanuel Lavinal, and Emmanuel Chaput. June 2025. SR4MEC: Enabling Flexible and Scalable Edge Computing in 5G Networks. 
 
 <details closed><summary>Organization profile picture credits</summary>
 <ul><li><a href="https://commons.wikimedia.org/wiki/File:Pirate_Flag.svg">Oren neu dag, CC-BY-SA-3.0</a></li></ul>
