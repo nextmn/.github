@@ -6,18 +6,6 @@ They are intended to work in cooperation with other network functions such as [F
 > 
 > If you want to reproduce the experiment, follow the [_Getting Started_ instructions](https://github.com/nextmn/testbed?tab=readme-ov-file#getting-started) to install the testbed, and refer to the [wiki](https://github.com/nextmn/testbed/wiki) for further documentation (customisation of the testbed parameters, commands available, etc.).
 
-
-## More infos
-Organization owner: [Louis Royer](https://github.com/louisroyer)
-
-Related work:
-- Louis Royer, Emmanuel Lavinal, and Emmanuel Chaput. 2023. [Using SRv6 to access Edge Applications in 5G Networks](https://doi.org/10.1145/3630202.3630231).
-- Louis Royer, Emmanuel Lavinal, and Emmanuel Chaput. 2025. [SR4MEC: Enabling Flexible and Scalable Edge Computing in 5G Networks](https://doi.org/10.1109/ICC52391.2025.11160998). 
-
-<details closed><summary>Organization profile picture credits</summary>
-<ul><li><a href="https://commons.wikimedia.org/wiki/File:Pirate_Flag.svg">Oren neu dag, CC-BY-SA-3.0</a></li></ul>
-</details>
-
 <details closed><summary>Source repositories for Docker Images</summary>
 <ul>
 <li><a href="https://github.com/louisroyer-docker/base-irit"><code>louisroyer-docker/base-irit</code></a>: Base image</li>
@@ -30,3 +18,15 @@ Related work:
 </ul>
 </details>
 
+<details closed><summary>More infos</summary>
+<ul>
+  <li>Organization owner: <a href="https://github.com/louisroyer">Louis Royer]</a></li>
+  <li>Organization profile picture credits: <a href="https://commons.wikimedia.org/wiki/File:Pirate_Flag.svg">Oren neu dag, CC-BY-SA-3.0</a></li>
+</ul>
+</details>
+
+## Related work
+- Louis Royer, Emmanuel Lavinal, and Emmanuel Chaput. 2023. [Using SRv6 to access Edge Applications in 5G Networks](https://doi.org/10.1145/3630202.3630231).
+- Louis Royer, Emmanuel Lavinal, and Emmanuel Chaput. 2025. [SR4MEC: Enabling Flexible and Scalable Edge Computing in 5G Networks](https://doi.org/10.1109/ICC52391.2025.11160998).
+- Louis Royer, Emmanuel Lavinal, and Emmanuel Chaput. 2026. [Mobility-Aware Edge Rebinding in 5G Networks using SR4MEC](http://www.wimob.org/wimob2026/proceedings.php)
+- Louis Royer. 2026. [Architecture de contrôle pour l’intégration de l’_edge computing_ dans les réseaux mobiles 5G](https://github.com/louisroyer/these)) \[A Control Architecture for Integrating Edge Computing into 5G Networks\] (PhD thesis in French).
