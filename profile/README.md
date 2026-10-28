@@ -20,7 +20,7 @@ They are intended to work in cooperation with other network functions such as [F
 
 <details closed><summary>More infos</summary>
 <ul>
-  <li>Organization owner: <a href="https://github.com/louisroyer">Louis Royer]</a></li>
+  <li>Organization owner: <a href="https://github.com/louisroyer">Louis Royer</a></li>
   <li>Organization profile picture credits: <a href="https://commons.wikimedia.org/wiki/File:Pirate_Flag.svg">Oren neu dag, CC-BY-SA-3.0</a></li>
 </ul>
 </details>
