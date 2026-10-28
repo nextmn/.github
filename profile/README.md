@@ -29,4 +29,4 @@ They are intended to work in cooperation with other network functions such as [F
 - Louis Royer, Emmanuel Lavinal, and Emmanuel Chaput. 2023. [Using SRv6 to access Edge Applications in 5G Networks](https://doi.org/10.1145/3630202.3630231).
 - Louis Royer, Emmanuel Lavinal, and Emmanuel Chaput. 2025. [SR4MEC: Enabling Flexible and Scalable Edge Computing in 5G Networks](https://doi.org/10.1109/ICC52391.2025.11160998).
 - Louis Royer, Emmanuel Lavinal, and Emmanuel Chaput. 2026. [Mobility-Aware Edge Rebinding in 5G Networks using SR4MEC](http://www.wimob.org/wimob2026/proceedings.php)
-- Louis Royer. 2026. [Architecture de contrôle pour l’intégration de l’_edge computing_ dans les réseaux mobiles 5G](https://github.com/louisroyer/these)) \[A Control Architecture for Integrating Edge Computing into 5G Networks\] (PhD thesis in French).
+- Louis Royer. 2026. [Architecture de contrôle pour l’intégration de l’_edge computing_ dans les réseaux mobiles 5G](https://github.com/louisroyer/these) \[A Control Architecture for Integrating Edge Computing into 5G Networks\] (PhD thesis in French).
